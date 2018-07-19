@@ -195,33 +195,9 @@
     <Content Include="FEE_Detail.aspx" />
     <Content Include="FEE_Mine.aspx" />
     <Content Include="Login.html" />
-    <Content Include="login\assets\bootstrap\css\bootstrap-theme.css" />
-    <Content Include="login\assets\bootstrap\css\bootstrap-theme.min.css" />
-    <Content Include="login\assets\bootstrap\css\bootstrap.css" />
-    <Content Include="login\assets\bootstrap\css\bootstrap.min.css" />
-    <Content Include="login\assets\bootstrap\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="login\assets\bootstrap\js\bootstrap.js" />
-    <Content Include="login\assets\bootstrap\js\bootstrap.min.js" />
-    <Content Include="login\assets\bootstrap\js\npm.js" />
-    <Content Include="login\assets\css\form-elements.css" />
-    <Content Include="login\assets\css\style.css" />
-    <Content Include="login\assets\font-awesome\css\font-awesome.css" />
-    <Content Include="login\assets\font-awesome\css\font-awesome.min.css" />
-    <Content Include="login\assets\font-awesome\fonts\fontawesome-webfont.svg" />
-    <Content Include="login\assets\ico\apple-touch-icon-114-precomposed.png" />
-    <Content Include="login\assets\ico\apple-touch-icon-144-precomposed.png" />
-    <Content Include="login\assets\ico\apple-touch-icon-57-precomposed.png" />
-    <Content Include="login\assets\ico\apple-touch-icon-72-precomposed.png" />
-    <Content Include="login\assets\ico\favicon.png" />
-    <Content Include="login\assets\img\backgrounds\1%402x.jpg" />
-    <Content Include="login\assets\img\backgrounds\1.jpg" />
-    <Content Include="login\assets\js\jquery-1.11.1.js" />
-    <Content Include="login\assets\js\jquery-1.11.1.min.js" />
-    <Content Include="login\assets\js\jquery.backstretch.js" />
-    <Content Include="login\assets\js\jquery.backstretch.min.js" />
-    <Content Include="login\assets\js\placeholder.js" />
-    <Content Include="login\assets\js\scripts.js" />
     <Content Include="mysrc\css\Main.css" />
+    <Content Include="mysrc\css\sb-admin-2.css" />
+    <Content Include="mysrc\js\sb-admin-2.js" />
     <Content Include="Set_Cant.aspx" />
     <Content Include="Set_Dep.aspx" />
     <Content Include="Set_Role.aspx" />
@@ -231,6 +207,16 @@
     <Content Include="TU_Card.aspx" />
     <Content Include="TU_Cash.aspx" />
     <Content Include="TU_Detail.aspx" />
+    <Content Include="vendors\login\font-awesome\css\font-awesome.css" />
+    <Content Include="vendors\login\font-awesome\css\font-awesome.min.css" />
+    <Content Include="vendors\login\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="vendors\login\font-awesome\HELP-US-OUT.txt" />
+    <Content Include="vendors\login\jquery\jquery.js" />
+    <Content Include="vendors\login\jquery\jquery.min.js" />
+    <Content Include="vendors\login\metisMenu\metisMenu.css" />
+    <Content Include="vendors\login\metisMenu\metisMenu.js" />
+    <Content Include="vendors\login\metisMenu\metisMenu.min.css" />
+    <Content Include="vendors\login\metisMenu\metisMenu.min.js" />
     <Content Include="vendors\selectpicker\dist\css\bootstrap-select.min.css" />
     <Content Include="vendors\selectpicker\dist\js\bootstrap-select.min.js" />
     <Content Include="vendors\timepicker\bootstrap-datetimepicker.min.css" />
@@ -360,43 +346,44 @@
     <Content Include="Main.Master" />
     <Content Include="vendors\selectpicker\dist\js\bootstrap-select.js.map" />
     <Content Include="Setting.Master" />
-    <Content Include="login\assets\bootstrap\css\bootstrap-theme.css.map" />
-    <Content Include="login\assets\bootstrap\css\bootstrap.css.map" />
-    <Content Include="login\assets\bootstrap\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="login\assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="login\assets\bootstrap\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="login\assets\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
-    <Content Include="login\assets\font-awesome\fonts\fontawesome-webfont.eot" />
-    <Content Include="login\assets\font-awesome\fonts\fontawesome-webfont.ttf" />
-    <Content Include="login\assets\font-awesome\fonts\fontawesome-webfont.woff" />
-    <Content Include="login\assets\font-awesome\fonts\fontawesome-webfont.woff2" />
-    <Content Include="login\assets\font-awesome\fonts\FontAwesome.otf" />
-    <Content Include="login\assets\font-awesome\less\animated.less" />
-    <Content Include="login\assets\font-awesome\less\bordered-pulled.less" />
-    <Content Include="login\assets\font-awesome\less\core.less" />
-    <Content Include="login\assets\font-awesome\less\fixed-width.less" />
-    <Content Include="login\assets\font-awesome\less\font-awesome.less" />
-    <Content Include="login\assets\font-awesome\less\icons.less" />
-    <Content Include="login\assets\font-awesome\less\larger.less" />
-    <Content Include="login\assets\font-awesome\less\list.less" />
-    <Content Include="login\assets\font-awesome\less\mixins.less" />
-    <Content Include="login\assets\font-awesome\less\path.less" />
-    <Content Include="login\assets\font-awesome\less\rotated-flipped.less" />
-    <Content Include="login\assets\font-awesome\less\stacked.less" />
-    <Content Include="login\assets\font-awesome\less\variables.less" />
-    <Content Include="login\assets\font-awesome\scss\font-awesome.scss" />
-    <Content Include="login\assets\font-awesome\scss\_animated.scss" />
-    <Content Include="login\assets\font-awesome\scss\_bordered-pulled.scss" />
-    <Content Include="login\assets\font-awesome\scss\_core.scss" />
-    <Content Include="login\assets\font-awesome\scss\_fixed-width.scss" />
-    <Content Include="login\assets\font-awesome\scss\_icons.scss" />
-    <Content Include="login\assets\font-awesome\scss\_larger.scss" />
-    <Content Include="login\assets\font-awesome\scss\_list.scss" />
-    <Content Include="login\assets\font-awesome\scss\_mixins.scss" />
-    <Content Include="login\assets\font-awesome\scss\_path.scss" />
-    <Content Include="login\assets\font-awesome\scss\_rotated-flipped.scss" />
-    <Content Include="login\assets\font-awesome\scss\_stacked.scss" />
-    <Content Include="login\assets\font-awesome\scss\_variables.scss" />
+    <Content Include="vendors\login\font-awesome\css\font-awesome.css.map" />
+    <Content Include="vendors\login\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="vendors\login\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="vendors\login\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="vendors\login\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="vendors\login\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="vendors\login\font-awesome\less\animated.less" />
+    <Content Include="vendors\login\font-awesome\less\bordered-pulled.less" />
+    <Content Include="vendors\login\font-awesome\less\core.less" />
+    <Content Include="vendors\login\font-awesome\less\extras.less" />
+    <Content Include="vendors\login\font-awesome\less\fixed-width.less" />
+    <Content Include="vendors\login\font-awesome\less\font-awesome.less" />
+    <Content Include="vendors\login\font-awesome\less\icons.less" />
+    <Content Include="vendors\login\font-awesome\less\larger.less" />
+    <Content Include="vendors\login\font-awesome\less\list.less" />
+    <Content Include="vendors\login\font-awesome\less\mixins.less" />
+    <Content Include="vendors\login\font-awesome\less\path.less" />
+    <Content Include="vendors\login\font-awesome\less\rotated-flipped.less" />
+    <Content Include="vendors\login\font-awesome\less\screen-reader.less" />
+    <Content Include="vendors\login\font-awesome\less\spinning.less" />
+    <Content Include="vendors\login\font-awesome\less\stacked.less" />
+    <Content Include="vendors\login\font-awesome\less\variables.less" />
+    <Content Include="vendors\login\font-awesome\scss\font-awesome.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_animated.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_core.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_extras.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_icons.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_larger.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_list.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_mixins.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_path.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_screen-reader.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_spinning.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_stacked.scss" />
+    <Content Include="vendors\login\font-awesome\scss\_variables.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -407,9 +394,7 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="mysrc\js\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

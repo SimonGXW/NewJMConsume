@@ -4,3 +4,4 @@ E:\project_git\NewJMConsume\NewJMConsume\bin\NewJMConsume.pdb
 E:\project_git\NewJMConsume\NewJMConsume\obj\Debug\NewJMConsume.csproj.CoreCompileInputs.cache
 E:\project_git\NewJMConsume\NewJMConsume\obj\Debug\NewJMConsume.dll
 E:\project_git\NewJMConsume\NewJMConsume\obj\Debug\NewJMConsume.pdb
+E:\project_git\NewJMConsume\NewJMConsume\obj\Debug\NewJMConsume.csprojResolveAssemblyReference.cache
