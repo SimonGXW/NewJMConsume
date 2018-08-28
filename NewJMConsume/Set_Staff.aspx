@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+    <div class="breadcrumbs ace-save-state" id="breadcrumbs" style="padding-top:0 0 0 0">
         <ul class="breadcrumb">
             <li>
                 <i class="ace-icon fa fa-home home-icon"></i>
@@ -37,10 +37,10 @@
                             <input type="button" class="btn btn-primary" value="启用" />
                         </div>
                         <div class="form-group">
-                            <input type="button" class="btn btn-primary" value="停用" />
+                            <input type="button" class="btn btn-danger" value="停用" />
                         </div>
                         <div class="form-group">
-                            <input type="button" class="btn btn-primary" value="导出" />
+                            <input type="button" class="btn btn-info" value="导出" />
                         </div>
                     </div>
                 </div>
@@ -51,15 +51,25 @@
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
-                                    <th>表头1</th>
-                                    <th>表头2</th>
+                                    <th>公司</th>
+                                    <th>帐号</th>
+                                    <th>姓名</th>
+                                    <th>角色</th>
+                                    <th>部门</th>
+                                    <th>卡号</th>
+                                    <th>状态</th>
+                                    <th>余额</th>
+                                    <th>消费策略</th>
+                                    <th>消费地点</th>
+                                    <th>创建时间</th>
+                                    <th>操作</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
+<%--                                <tr>
                                     <td>单元格1</td>
                                     <td>单元格1</td>
-                                </tr>
+                                </tr>--%>
                             </tbody>
                         </table>
                     </div>
