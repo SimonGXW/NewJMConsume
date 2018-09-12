@@ -1,0 +1,7 @@
+E:\project_git\NewJMConsume\MySqlDB\bin\Debug\MySqlDB.dll
+E:\project_git\NewJMConsume\MySqlDB\bin\Debug\MySqlDB.pdb
+E:\project_git\NewJMConsume\MySqlDB\bin\Debug\MySql.Data.dll
+E:\project_git\NewJMConsume\MySqlDB\obj\Debug\MySqlDB.csprojResolveAssemblyReference.cache
+E:\project_git\NewJMConsume\MySqlDB\obj\Debug\MySqlDB.csproj.CoreCompileInputs.cache
+E:\project_git\NewJMConsume\MySqlDB\obj\Debug\MySqlDB.dll
+E:\project_git\NewJMConsume\MySqlDB\obj\Debug\MySqlDB.pdb

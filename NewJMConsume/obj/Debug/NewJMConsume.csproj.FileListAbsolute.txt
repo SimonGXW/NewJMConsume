@@ -5,3 +5,6 @@ E:\project_git\NewJMConsume\NewJMConsume\obj\Debug\NewJMConsume.csproj.CoreCompi
 E:\project_git\NewJMConsume\NewJMConsume\obj\Debug\NewJMConsume.dll
 E:\project_git\NewJMConsume\NewJMConsume\obj\Debug\NewJMConsume.pdb
 E:\project_git\NewJMConsume\NewJMConsume\obj\Debug\NewJMConsume.csprojResolveAssemblyReference.cache
+E:\project_git\NewJMConsume\NewJMConsume\bin\MySqlDB.dll
+E:\project_git\NewJMConsume\NewJMConsume\bin\MySqlDB.pdb
+E:\project_git\NewJMConsume\NewJMConsume\bin\Newtonsoft.Json.dll

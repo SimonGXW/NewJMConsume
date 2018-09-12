@@ -82,6 +82,10 @@
     <script src="vendors/timepicker/bootstrap-datetimepicker.zh-CN.js"></script>
     <link href="vendors/selectpicker/dist/css/bootstrap-select.min.css" rel="stylesheet" />
     <script src="vendors/selectpicker/dist/js/bootstrap-select.min.js"></script>
+    <script src="vendors/bootstrap-paginator-master/src/bootstrap-paginator.js"></script>
+
+    <%--自身引用--%>
+    <script src="mysrc/commen_js/MJ_JSComment.js"></script>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>

@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 
 namespace MySqlDB
 {
-    class MysqlHelper
+    public class MysqlHelper
     {
         //数据库连接字符串(web.config来配置)，可以动态更改connectionString支持多数据库. 
         public static string connectionString = ConfigurationManager.AppSettings["MySQL"];
@@ -305,7 +305,15 @@ namespace MySqlDB
             int rows = 0;
             DataTable dt = new DataTable();
             MatchCollection matchs = Regex.Matches(selectList, @"top\s+\d{1,}", RegexOptions.IgnoreCase);//含有top 
-            string sqlStr = sqlStr = string.Format("select {0} from {1} where 1=1 {2}", selectList, tableName, whereStr);
+            string sqlStr = "";
+            if (selectList != "")
+            {
+                sqlStr = string.Format("select {0} from {1} where 1=1 {2}", selectList, tableName, whereStr);
+            }
+            else
+            {
+                sqlStr = string.Format("select * from {0} where 1=1 {1}",tableName, whereStr);
+            }
             if (!string.IsNullOrEmpty(orderExpression)) { sqlStr += string.Format(" Order by {0}", orderExpression); }
             if (matchs.Count > 0) //含有top的时候 
             {

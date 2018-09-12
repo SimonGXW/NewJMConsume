@@ -268,8 +268,8 @@
                             </li>
                         </ul>
                     </li>
-
-                    <li class="">
+                   <%--餐票--%>
+                   <%-- <li class="">
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-pencil-square-o"></i>
                             <span class="menu-text">餐票申请</span>
@@ -553,7 +553,7 @@
                                 <b class="arrow"></b>
                             </li>
                         </ul>
-                    </li>
+                    </li>--%>
                 </ul>
                 <!-- /.nav-list -->
 
